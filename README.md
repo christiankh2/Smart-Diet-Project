@@ -1,0 +1,1 @@
+Hi this is my smart diet recommendation system, it uses simple functions to locally fetch and store user data in the google firebase database and it then displays recommendations. If you want to know more about it email me at christian_kh@outlook.com
